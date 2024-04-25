@@ -1,4 +1,4 @@
-![logo](https://github.com/Er-Parag-Cyber/Er-Parag-Cyber/blob/main/Parag%20Pro%20Banner.jpg)
+![Github_Bann (1)](https://github.com/Er-Parag-Cyber/Er-Parag-Cyber/assets/62016806/4bd19587-ac95-47f9-bcd6-661cd94d8284)
 <h1 align="center">Hi 👋, I'm Parag Bhangale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
